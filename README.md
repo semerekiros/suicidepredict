@@ -35,6 +35,6 @@ The **data** folder contains the dataset for training our ML models. It can be o
 
 > pip install -r requirements.txt
 
-#### Note that the code is not fully reproducable yet ####
+#### Note that the code will be fully available before the end of September 2023 ####
 
 

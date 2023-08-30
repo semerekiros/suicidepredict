@@ -30,9 +30,6 @@ If you use part of the code/dataset please cite:
 
 The **data** folder contains the dataset for training our ML models. It can be obtained from [here](http://users.umiacs.umd.edu/~resnik/umd_reddit_suicidality_dataset.html)
 
-```
-### Predictions from the different models ###
-The *predictions-**model_name*** folder contains the predictions from each of the models. The models are **zero-shot**, **mt5**, **few-shot** and **few-shot-static**
 
 ### Pre-requisites ###
 

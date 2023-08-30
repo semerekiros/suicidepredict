@@ -2,7 +2,7 @@
 This repo will soon contain the code to reproduce the results of the following paper
 
 
-[Distractor generation for multiple-choice questions with predictive prompting and large language models](https://arxiv.org/abs/2307.16338)
+[Predicting Suicide Risk from Online Postings in Reddit The UGent-IDLab submission to the CLPysch 2019 Shared Task A]([https://arxiv.org/abs/2307.16338](https://aclanthology.org/W19-3019/))
 
 If you use part of the code/dataset please cite:  
 
